@@ -5,6 +5,7 @@ JIRA is a project management tool used for issues and bug-tracking systems. It i
 
 
 
+### 2.  **To Do**
 ![Jira 01](https://github.com/parthadebnath99/Jira_Project/assets/43374147/96992d83-e2f8-4220-ae9a-8872d6fcedf8) 
 
 
